@@ -1,12 +1,10 @@
-SUBDIRS = countries fonts extensions keymaps hw_info
+SUBDIRS = fonts keymaps 
 
 dist_pkgdata_DATA = \
 	encoding.conf \
 	keymap.xml \
 	menu.xml \
 	prev.png \
-	radio.mvi \
-	black.mvi \
 	rcpositions.xml \
 	setup.xml \
 	skin_subtitles.xml \
